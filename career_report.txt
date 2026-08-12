@@ -1,0 +1,60 @@
+
+AI CAREER ASSISTANT REPORT
+
+Target Role:
+Machine Learning Engineer
+
+Overall Score:
+58/100
+
+
+STRENGTHS
+--------------------------------
+Strong fundamental education with a Bachelor of Science in Computer Science.
+Up-to-date skillset featuring modern Generative AI technologies, including RAG, LangChain, FAISS, and Gemini API.
+Diverse project portfolio covering NLP, Computer Vision, and traditional Machine Learning.
+Excellent selection of relevant industry certifications from reputable providers like IBM and Coursera.
+
+
+WEAKNESSES
+--------------------------------
+Critical chronological typo: internship dates are listed as 'Aug 2025 – Sep 2025' (a future date).
+A significant, unexplained career gap exists between graduation (2017) and the recent ML internship (2025/current).
+Project and experience descriptions lack impact metrics, scale, and quantitative results (e.g., model accuracy, reduction in processing time, or dataset sizes).
+The resume targets intern-level roles despite the applicant having graduated over 6 years ago, which may confuse recruiters without clear narrative context of a career pivot.
+
+
+MISSING SKILLS
+--------------------------------
+PyTorch (highly demanded for modern deep learning and NLP roles).
+SQL & Database management (essential for data extraction and preprocessing in production ML pipelines).
+Cloud Platforms (AWS, Google Cloud, or Azure for model training and deployment).
+Docker & Containerization (critical for MLOps and deploying ML models to production).
+MLOps tools (e.g., MLflow, DVC, or Airflow for pipeline orchestration).
+
+
+RECOMMENDATIONS
+--------------------------------
+Correct the internship date typo immediately to reflect the actual year (likely 2024 or 2023).
+Add quantitative metrics to your projects and experience. Instead of 'Built ML models', write 'Developed a Random Forest classifier achieving 92% accuracy on a dataset of 10k+ patients'.
+Incorporate SQL and PyTorch into your technical skills, and build at least one project using PyTorch to balance your TensorFlow experience.
+Add a brief line in your Professional Summary or cover letter to address the career pivot, explaining how you spent the time post-graduation and why you are re-entering the tech market as an ML Engineer.
+Deepen the experience bullet points for your 'Arch Technologies' internship. Explain the specific models you built, the libraries used, and the business outcomes of those projects.
+
+
+TECHNICAL INTERVIEW QUESTIONS
+--------------------------------
+In your PDF Chatbot RAG application, you utilized FAISS and Gemini AI. How did you determine the optimal chunk size and overlap for the PDF text splitting, and how did these parameters impact the retrieval accuracy and token consumption of the Gemini API?
+For your Customer Churn Prediction project, class imbalance is a typical challenge. What specific techniques (such as SMOTE, class weights, or threshold tuning) did you apply, and why did you choose metrics like F1-score or PR-AUC over standard accuracy?
+You have listed XGBoost, LightGBM, and CatBoost in your technical skills. Can you explain the structural differences in how these three algorithms grow trees (e.g., level-wise vs. leaf-wise) and how CatBoost natively handles categorical features compared to the other two?
+In your Multilingual Image Description Generator, you used a CNN-LSTM architecture. How did you bridge the vector representation output from the CNN (image encoder) to the input of the LSTM (sequence decoder), and how did you scale the system to support multilingual caption generation?
+In the AI Email Triage Assistant, you integrated Gemini AI with n8n for categorization. How did you design your prompts to ensure deterministic output (such as structured JSON), and how did you handle potential LLM hallucinations or API rate limits during high-volume email spikes?
+
+
+BEHAVIORAL INTERVIEW QUESTIONS
+--------------------------------
+I noticed you completed your BS in Computer Science in 2017 and have recently focused on Machine Learning and Generative AI certifications and internships. What inspired you to specialize in AI/ML at this point in your career, and how did you structure your self-learning path to bridge any gaps?
+During your internship at Arch Technologies, you collaborated on data preprocessing and model development. Can you describe a specific instance where you and your team had differing opinions on a model's feature engineering approach, and how you reached a consensus?
+In building your PDF Chatbot, you integrated several modern tools like LangChain, Streamlit, and FAISS. Describe a time when an API update or a bug in one of these open-source libraries broke your application. How did you troubleshoot and resolve the issue?
+As an ML Engineer, you often have to explain complex AI concepts to non-technical stakeholders. Can you share an experience where you had to explain how a model works (like your Heart Disease Prediction model) to someone without a technical background?
+When designing the workflow for your AI Email Triage Assistant using n8n and Discord, how did you define the Minimum Viable Product (MVP), and how did you manage your time and prioritize features to complete the project successfully?
